@@ -31,7 +31,7 @@ registrar distintas entidades relacionadas con la empresa y consultar la informa
 ## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
 1. Clona el repositorio desde GitHub:
-
+https://github.com/ariel-malo/LlanquihueTour.git
 ```bash
 
 ```
@@ -44,7 +44,7 @@ registrar distintas entidades relacionadas con la empresa y consultar la informa
 
 ---
 
-**Repositorio GitHub:** \[]
+**Repositorio GitHub:** \[https://github.com/ariel-malo/LlanquihueTour.git]
 **Fecha de entrega:** \[16/07/2026]
 
 ---
