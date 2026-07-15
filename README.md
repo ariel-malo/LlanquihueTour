@@ -24,7 +24,7 @@ registrar distintas entidades relacionadas con la empresa y consultar la informa
  ├── 📁 data/ # Gestión y carga de datos │ ├── GestorDatos.java │ ├── GestorTour.java │ 
  ├── 📁 util/ # Clases utilitarias │ └── InvalidoException.java │└── LectorDatos.java │
  ├── 📁 ui/ # Interfaz y clase principal │ └── Main.java │
- └── Archivos de datos └── tours.txt
+ └── Archivos de datos └── datos.txt
 
 
 
