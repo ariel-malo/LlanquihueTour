@@ -1,0 +1,5 @@
+tour metropolitano;santiago;cultural;40000
+tour surenio;los lagos;natural;50000
+tour magallánico;punta arenas;natural;45000
+tour geologico;villarica;aventura;60000
+tour melipilla;pomaire;cultural;50000
